@@ -41,5 +41,5 @@ Automatic alerts when fields are left empty, ensuring data integrity.
 ![Empty Input](UI%20Screenshots/Empty%20Input.png)
 
 ### 5. Robust Error Handling (Try-Except)
-Demonstrating the system's stability when encountering invalid shift data[cite: 1, 3, 5].
+Demonstrating the system's stability when encountering invalid shift data.
 ![Error Handling](UI%20Screenshots/Try%20Except%20Error%20!.png)
