@@ -21,3 +21,9 @@ The project aims to provide simplified programming solutions to address two main
 ## 👨‍💻 Prepared By
 **Ziad Hany Elkotb Abdelazim**  
 CS Student at Suez National University | Class of 2026[cite: 3, 5].
+
+## 📸 Screenshots
+![Program Start](UI%20Screenshots/Program%20Start.png)
+![Weak Password](UI%20Screenshots/Weak%20Password.png)
+![Encryption Success](UI%20Screenshots/Strong%20Pass.%20%26%20Succes%20Encryption.png)
+```[cite: 1]
