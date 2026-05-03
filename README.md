@@ -22,8 +22,24 @@ The project aims to provide simplified programming solutions to address two main
 **Ziad Hany Elkotb Abdelazim**  
 CS Student at Suez National University | Class of 2026[cite: 3, 5].
 
-## 📸 Screenshots
+## 📸 Project Showcases
+
+### 1. Main Interface
+The starting point of the Security Toolbox, showing the clean UI design built with Tkinter.
 ![Program Start](UI%20Screenshots/Program%20Start.png)
+
+### 2. Encryption & Strength Logic
+Demonstrating successful encryption and a "Strong" password classification.
+![Success Case](UI%20Screenshots/Strong%20Pass.%20%26%20Succes%20Encryption.png)
+
+### 3. Validation Rules
+Testing the logic against weak passwords to guide the user[cite: 3, 5].
 ![Weak Password](UI%20Screenshots/Weak%20Password.png)
-![Encryption Success](UI%20Screenshots/Strong%20Pass.%20%26%20Succes%20Encryption.png)
-```[cite: 1]
+
+### 4. Input Handling
+Automatic alerts when fields are left empty, ensuring data integrity[cite: 3, 5].
+![Empty Input](UI%20Screenshots/Empty%20Input.png)
+
+### 5. Robust Error Handling (Try-Except)
+Demonstrating the system's stability when encountering invalid shift data[cite: 1, 3, 5].
+![Error Handling](UI%20Screenshots/Try%20Except%20Error%20!.png)
